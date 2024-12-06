@@ -5,7 +5,7 @@
 
 
 ### 💼 **About Me**  
-- 🎯 **Passionate Android Developer** with **2.5+ years of experience** in creating efficient, user-centric mobile applications.  
+- 🎯 **Passionate Android Developer** with almost **3 years of experience** in creating efficient, user-centric mobile applications.  
 - 🌍 **Open to Opportunities in the UAE** (Dubai, Sharjah, Abu Dhabi).  
 - 🎓 Master's in Information Technology, specializing in **modern app development practices**.  
 - ⚙️ Proficient in **Jetpack Compose**, **MVVM architecture**, **Coroutines**, and seamless communication with **Bluetooth/Wi-Fi-enabled devices**.  
