@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sibin Thomas  
 
-## 🌟 **Android Developer | Mobile App Enthusiast | Problem Solver**  
+## 🌟 **Android Developer | Mobile App Enthusiast**  
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=SiBiN003&color=blue&style=flat-square)](https://github.com/SiBiN003)
 
 
